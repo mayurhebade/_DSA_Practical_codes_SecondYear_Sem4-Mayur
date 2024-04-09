@@ -2,3 +2,5 @@
 All DSA practical codes without errors
 // PDF link below👇👇
 # https://drive.google.com/drive/folders/1NpYp1ykBD-1pzQzHbz-XQrQkzGkfjkId?usp=sharing
+// Out put drive link👇👇
+# https://drive.google.com/drive/folders/1NycwfMODe3ugRbqbFgoBImY3-7O-MdBH?usp=sharing
