@@ -76,6 +76,7 @@ int main()
         {
         case 1:
             BOOK.create_tree();
+            break;
         case 2:
             BOOK.display(root);
             break;
